@@ -1,1 +1,1 @@
-# wordle
+This is a project that applies probability theory to solve wordle optimally. The algorithm uses expectation of entropy to maximize the randomness of the returned pattern. I enjoy playing wordle and I have always been curious about how to minimize my average guesses, and this project has helped me understand good wordle strategy. Enjoy!
